@@ -11,7 +11,10 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
+    "**/*.jsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/basuc.js",
+//  "app/(tabs)/index.jsx"  
+]
 }
